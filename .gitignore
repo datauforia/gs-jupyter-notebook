@@ -1,0 +1,3 @@
+# Don't track Jupyter Lab artefacts
+.ipynb_checkpoints/
+.venv
